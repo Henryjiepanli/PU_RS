@@ -31,7 +31,7 @@ We have released visual results for various tasks. You can access them from the 
 
 **SYSU-CD Dataset**:[Download](https://pan.baidu.com/s/1oaaRpPx7mYTfXGgJJOEajw?pwd=PUGN)
 
-**Lebedev Dataset**:[Download](https://pan.baidu.com/s/1JmgYZXXWsU_6xfnO3tKApA?pwd=xnhz)
+**Lebedev Dataset**:[Download](https://pan.baidu.com/s/13dEsYqt-YnZQVO5QrNSIJg?pwd=PUGN)
 
 ## Uncertainty  Decomposition
 
