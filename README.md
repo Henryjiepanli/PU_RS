@@ -4,7 +4,7 @@ The official implement of 《Progressive Uncertainty-Guided Network for Binary S
 > ⏳ **Full Implementation Release Coming Soon**: We are actively finalizing the complete implementation, which will include **training scripts**, **testing procedures**, and a **large-scale inference framework**. Stay tuned for updates!
  
 <div align="center">
-  
+  <img src="applica.png"
   <p><em>Visual comparison of uncertainty between PUGNet and other state-of-the-art methods.</em></p>
 </div>
 
