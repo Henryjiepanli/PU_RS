@@ -16,7 +16,7 @@ The official implement of 《Progressive Uncertainty-Guided Network for Binary S
 </div>
 
 <div align="center">
-  <img src="Farm.png" alt="Performance comparison of single-temporal cropland extraction with baseline models on the FGFD dataset." />
+  <img src="farm.png" alt="Performance comparison of single-temporal cropland extraction with baseline models on the FGFD dataset." />
   <br/>
   <em>Figure: Performance comparison of single-temporal cropland extraction with baseline models on the FGFD dataset.</em>
 </div>
