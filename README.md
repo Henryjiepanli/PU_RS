@@ -3,11 +3,7 @@ The official implement of 《Progressive Uncertainty-Guided Network for Binary S
 
 The full implementation of our model will be given later, including training, testing, and a large-scale inference framework.
 
-![Single-temporal Building Extraction](COD.png)
-
-![Single-temporal Cropland Extraction](SOD.png)
-
-![Bi-temporal Building Change Detection](SOD.png)
+![Comparison of uncertainty estimation between the proposed PUGNet and other uncertainty-aware methods for both single-temporal building extraction and bi-temporal building change detection under large-scale scenarios.](fig_app.pdf)
 
 ## Visual Results for Multiple Tasks
 
@@ -32,4 +28,4 @@ We have released visual results for various tasks. You can access them from the 
 ## Uncertainty  Decomposition
 
 ![Visualizations of the progressive uncertainty decomposition and prediction results for building and cropland extraction
-tasks.](COD.png)
+tasks.](fig_fv.pdf)
