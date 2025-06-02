@@ -4,7 +4,7 @@ The official implement of 《Progressive Uncertainty-Guided Network for Binary S
 > 📌 The full implementation including **training**, **testing**, and a **large-scale inference framework** will be released soon.
 
 <div align="center">
-  <img src="fig_app.pdf" alt="Uncertainty comparison between PUGNet and other methods" />
+  <img src="applica.png" alt="Uncertainty comparison between PUGNet and other methods" />
 </div>
 
 ## Visual Results for Multiple Tasks
@@ -33,4 +33,4 @@ We have released visual results for various tasks. You can access them from the 
 
 ## Uncertainty  Decomposition
 
-<div align="center"> <img src="fig_fv.pdf" alt="Progressive uncertainty decomposition and prediction results" /> </div>
+<div align="center"> <img src="uncertainty_com.png" alt="Progressive uncertainty decomposition and prediction results" /> </div>
