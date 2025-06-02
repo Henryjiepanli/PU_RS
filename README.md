@@ -9,6 +9,25 @@ The official implement of 《Progressive Uncertainty-Guided Network for Binary S
   <em>Figure: Visual comparison of uncertainty between PUGNet and other state-of-the-art methods.</em>
 </div>
 
+<div align="center">
+  <img src="Building.png" alt="Performance comparison of single-temporal building extraction with baseline models on the WHU, Massachusetts, and Inria datasets." />
+  <br/>
+  <em>Figure: Performance comparison of single-temporal building extraction with baseline models on the WHU, Massachusetts, and Inria datasets.</em>
+</div>
+
+<div align="center">
+  <img src="Farm.png" alt="Performance comparison of single-temporal cropland extraction with baseline models on the FGFD dataset." />
+  <br/>
+  <em>Figure: Performance comparison of single-temporal cropland extraction with baseline models on the FGFD dataset.</em>
+</div>
+
+<div align="center">
+  <img src="cd.png" alt="Performance comparison of bi-temporal building change detection on the LEVIR-CD, SYSU-CD, and Lebedev datasets." />
+  <br/>
+  <em>Figure: Performance comparison of bi-temporal building change detection on the LEVIR-CD, SYSU-CD, and Lebedev datasets.</em>
+</div>
+
+
 ## Visual Results for Multiple Tasks
 
 We have released visual results for various tasks. You can access them from the following links:
