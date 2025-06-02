@@ -1,10 +1,11 @@
 # PU_RS
 The official implement of 《Progressive Uncertainty-Guided Network for Binary Segmentation in High-Resolution Remote Sensing Imagery》
-
-> 📌 The full implementation including **training**, **testing**, and a **large-scale inference framework** will be released soon.
-
+ 
+> ⏳ **Full Implementation Release Coming Soon**: We are actively finalizing the complete implementation, which will include **training scripts**, **testing procedures**, and a **large-scale inference framework**. Stay tuned for updates!
+ 
 <div align="center">
-  <img src="applica.png" alt="Uncertainty comparison between PUGNet and other methods" />
+  
+  <p><em>Visual comparison of uncertainty between PUGNet and other state-of-the-art methods.</em></p>
 </div>
 
 ## Visual Results for Multiple Tasks
