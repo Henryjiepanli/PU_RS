@@ -134,23 +134,23 @@ if __name__ == '__main__':
         opt.train_root = './Data/Change_Detection/LEVIR-CD_cropped256/train/' 
         opt.val_root = './Data/Change_Detection/LEVIR-CD_cropped256/val/'
         palatte = [[0,0,0], [255,255,255]]
-    elif opt.data_name == 'Google':
+    elif opt.data_name == 'Google-CD':
         opt.train_root = './Data/Change_Detection/Google-CD/train/' 
         opt.val_root = './Data/Change_Detection/Google-CD/val/'
         palatte = [[0,0,0], [255,255,255]]
-    elif opt.data_name == 'WHU':
+    elif opt.data_name == 'WHU-CD':
         opt.train_root = './Data/Change_Detection/WHU-CD/train/' 
         opt.val_root = './Data/Change_Detection/WHU-CD/val/'
         palatte = [[0,0,0], [255,255,255]]
-    elif opt.data_name == 'SYSU':
+    elif opt.data_name == 'SYSU-CD':
         opt.train_root = './Data/Change_Detection/SYSU-CD/train/' 
         opt.val_root = './Data/Change_Detection/SYSU-CD/val/'
         palatte = [[0,0,0], [255,255,255]]
-    elif opt.data_name == 'Lebedev':
+    elif opt.data_name == 'Lebedev-CD':
         opt.train_root = './Data/Change_Detection/Lebedev/train/' 
         opt.val_root = './Data/Change_Detection/Lebedev/val/'
         palatte = [[0,0,0], [255,255,255]]
-    elif opt.data_name == 'Lebedev':
+    elif opt.data_name == 'LEVIR-CD+':
         opt.train_root = './Data/Change_Detection/LEVIR-CD+/train/' 
         opt.val_root = './Data/Change_Detection/LEVIR-CD+/test/'
         palatte = [[0,0,0], [255,255,255]]
