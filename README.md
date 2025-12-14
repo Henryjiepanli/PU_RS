@@ -33,3 +33,14 @@ CUDA_VISIBLE_DEVICES=0 python train.py -c config/whubuilding/PUGNet.py
 CUDA_VISIBLE_DEVICES=0 python train.py -c config/massbuilding/PUGNet.py
 CUDA_VISIBLE_DEVICES=0 python train.py -c config/inriabuilding/PUGNet.py
 CUDA_VISIBLE_DEVICES=0 python train.py -c config/fgfd/PUGNet.py
+
+### Testing
+
+Navigate to the `single-temporal_binary_segmentation` directory and run:
+
+```bash
+CUDA_VISIBLE_DEVICES=0 python test.py -c config/whubuilding/PUGNet.py -o test_results/whubuilding/PUGNet/ -m model_path --rgb
+CUDA_VISIBLE_DEVICES=0 python test.py -c config/massbuilding/PUGNet.py -o test_results/massbuilding/PUGNet/ -m model_path --rgb
+CUDA_VISIBLE_DEVICES=0 python test.py -c config/inriabuilding/PUGNet.py -o test_results/inriabuilding/PUGNet/ -m model_path --rgb
+CUDA_VISIBLE_DEVICES=0 python test.py -c config/fgfd/PUGNet.py -o test_results/fgfd/PUGNet/ -m model_path --rgb
+
