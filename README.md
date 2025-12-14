@@ -131,6 +131,11 @@ We also release the prediction results reported in the paper:
 ![Quantitative Evaluation on Building Change Detection](bcd.png)
 
 
+### Comparison with SAM Family
+
+![Visual comparison with SAM-based Models](SAM.png)
+
+
 ## ⚠️ Notes
 
 - Ensure all required dependencies and environment configurations are correctly installed before running the code.
