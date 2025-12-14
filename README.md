@@ -116,6 +116,21 @@ We also release the prediction results reported in the paper:
 - [Download Link](https://pan.baidu.com/s/1yNC4kWF4cPbHHFXPUpOrdw?pwd=dadp)  
   Code: `dadp`
 
+## 🖼️ Evaluation
+
+### Building Extraction
+
+![Quantitative Evaluation on Building Extraction](building.png)
+
+### Cropland Extraction
+
+![Quantitative Evaluation on Cropland Extraction](farmland.png)
+
+### Building Change Detection
+
+![Quantitative Evaluation on Building Change Detection](bcd.png)
+
+
 ## ⚠️ Notes
 
 - Ensure all required dependencies and environment configurations are correctly installed before running the code.
