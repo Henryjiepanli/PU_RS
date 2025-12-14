@@ -107,9 +107,11 @@ We also release the prediction results reported in the paper:
 **Building Segmentation**
 - [Download Link]( https://pan.baidu.com/s/1IJ0DfinPDUKGPowbD0q8gg?pwd=dadp)  
   Code: `dadp`
+  
 **Cropland Segmentation**
 - [Download Link](https://pan.baidu.com/s/1QvqOX4YSgZ5HtWuh2pxgdQ?pwd=dadp)  
   Code: `dadp`
+  
 **Building Change Detection**
 - [Download Link](https://pan.baidu.com/s/1yNC4kWF4cPbHHFXPUpOrdw?pwd=dadp)  
   Code: `dadp`
