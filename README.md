@@ -69,7 +69,7 @@ pretrained_ckpt_path: path/to/checkpoint.pth
 
 2.Re-run the training script as usual.
 
-## 🚀 Single-Temporal Binary Segmentation
+## 🚀 Bi-Temporal Binary Segmentation
 
 ### Training
 Navigate to the `bi-temporal_binary_segmentation` directory and run:
