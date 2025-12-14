@@ -22,7 +22,7 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('--batchsize', type=int, default=4, help='training batch size')
     parser.add_argument('--trainsize', type=int, default=256, help='training dataset size')
-    parser.add_argument('--data_name', type=str, default='LEVIR',
+    parser.add_argument('--data_name', type=str, default='LEVIR-CD',
                         help='the test rgb images root')
     parser.add_argument('--backbone', type=str, default='PVT-v2',
                         help='')
@@ -31,15 +31,15 @@ def main():
     opt = parser.parse_args()
     palatte = [[0,0,0], [255,255,255]]
 
-    if opt.data_name == 'LEVIR':
+    if opt.data_name == 'LEVIR-CD':
         test_root = './Data/Change_Detection/LEVIR-CD_cropped256/test/'
-    elif opt.data_name == 'SYSU':
+    elif opt.data_name == 'SYSU-CD':
         test_root = './Data/Change_Detection/SYSU-CD/test/'
-    elif opt.data_name == 'Google':
+    elif opt.data_name == 'Google-CD':
         test_root = './Data/Change_Detection/Google-CD/test/'
-    elif opt.data_name == 'Lebedev':
+    elif opt.data_name == 'Lebedev-CD':
         test_root = './Data/Change_Detection/Lebedev/test/'
-    elif opt.data_name == 'WHU':
+    elif opt.data_name == 'WHU-CD':
         test_root = './Data/Change_Detection/WHU-CD/test/'
     elif opt.data_name == 'LEVIR-CD+':
         test_root = './Data/Change_Detection/LEVIR-CD+/test/'
