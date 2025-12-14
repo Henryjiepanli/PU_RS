@@ -18,7 +18,7 @@ The codebase is organized into two main modules according to the task setting:
 
 2. **Bi-Temporal Binary Segmentation**  
    Binary change detection (e.g., building change detection) from bi-temporal optical imagery.  
-   📂 `bi-temporal_binary_segmentation/`
+   📂 `building-change-detection/`
 
 ---
 
