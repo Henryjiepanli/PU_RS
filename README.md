@@ -72,7 +72,7 @@ pretrained_ckpt_path: path/to/checkpoint.pth
 ## 🚀 Bi-Temporal Binary Segmentation
 
 ### Training
-Navigate to the `bi-temporal_binary_segmentation` directory and run:
+Navigate to the `building change detection` directory and run:
 
 ```bash
 CUDA_VISIBLE_DEVICES=0 python train.py --data_name LEVIR-CD
