@@ -4,6 +4,8 @@ This repository provides the official implementation of our paper:
 
 **Progressive Uncertainty-Guided Network for Binary Segmentation in High-Resolution Remote Sensing Imagery**
 
+We are delighted to share that our paper has been successfully accepted by the **ISPRS Journal of Photogrammetry and Remote Sensing (ISPRS 2026)**.
+
 PUGNet is designed to explicitly model and exploit predictive uncertainty for accurate binary segmentation in high-resolution remote sensing images. The framework supports both **single-temporal semantic segmentation** and **bi-temporal change detection** scenarios.
 
 ---
