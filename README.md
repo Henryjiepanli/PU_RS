@@ -143,3 +143,18 @@ We also release the prediction results reported in the paper:
 - Ensure all required dependencies and environment configurations are correctly installed before running the code.
 
 - The configuration files fully specify dataset paths, training schedules, and uncertainty-related settings.
+
+## 📜 Citation
+
+If you use our work in your research, please cite:
+
+  ```bibtex
+    @article{li2026progressive,
+  title={Progressive uncertainty-guided network for binary segmentation in high-resolution remote sensing imagery},
+  author={Li, Jiepan and He, Wei and Hu, Ting and Tang, Minghao and Zhang, Liangpei},
+  journal={ISPRS Journal of Photogrammetry and Remote Sensing},
+  volume={232},
+  pages={561--577},
+  year={2026},
+  publisher={Elsevier}
+}
