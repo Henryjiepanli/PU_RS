@@ -149,7 +149,7 @@ We also release the prediction results reported in the paper:
 If you use our work in your research, please cite:
 
   ```bibtex
-    @article{li2026progressive,
+  @article{li2026progressive,
   title={Progressive uncertainty-guided network for binary segmentation in high-resolution remote sensing imagery},
   author={Li, Jiepan and He, Wei and Hu, Ting and Tang, Minghao and Zhang, Liangpei},
   journal={ISPRS Journal of Photogrammetry and Remote Sensing},
